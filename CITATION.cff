@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: >-
+  A fast, colonising life history predicts herbicide resistance in arable weeds
+  — analysis pipeline
+message: >-
+  If you use this software, please cite both the software and the associated
+  manuscript.
+type: software
+authors:
+  - given-names: Blaise
+    family-names: Binama
+    email: blaise.binama@uni-goettingen.de
+    affiliation: >-
+      Department of Crop Sciences & Centre for Integrated Breeding Research
+      (CiBreed), Georg-August-University Göttingen
+  - given-names: Stefan
+    family-names: Scholten
+    affiliation: >-
+      Department of Crop Sciences & Centre for Integrated Breeding Research
+      (CiBreed), Georg-August-University Göttingen
+license: MIT
+version: 1.0.0
+date-released: "2026-09-15"
+preferred-citation:
+  type: article
+  title: >-
+    A fast, colonising life history predicts herbicide resistance in arable
+    weeds
+  authors:
+    - given-names: Blaise
+      family-names: Binama
+    - given-names: Stefan
+      family-names: Scholten
+  year: 2026
+  notes: >-
+    Full author list to be completed on acceptance. Update the DOI, journal
+    and year here once the article is published.
