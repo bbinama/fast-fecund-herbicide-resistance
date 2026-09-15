@@ -41,7 +41,7 @@ analysis) reads; Stage 9 builds the figures and Stage 10 knits the report.
 | 4 | Crop-data overlay | `08_cropdata_overlay.R` | District crop-share context |
 | 5 | HR-status spatial surfaces | `09_hr_surface.R` | "Realized HR" surface from occurrences → map figures |
 | 6 | Sites-of-action / mechanism | `10_moa_analysis.R` | HRAC mechanism composition + selection-history analysis |
-| 7 | Reviewer checks | `11_reviewer_checks.R` | Recording-effort control, down-sampling learning curve |
+| 7 | Checks | `11_checks.R` | Recording-effort control, down-sampling learning curve |
 | 8 | **Main analysis** | `02_Master_Analysis.Rmd` | Modules/PCA, balanced random forest, importance, partial dependence, assessment, three-class + watch-list, and all robustness checks (phylogeny, alternative learners, SHAP) |
 | 9 | Figure builders | `_make_figs.R`, `_build_fig_ms4.R`, `_compose_supp.R` | Main and supplementary figure composites |
 | 10 | Render driver | `_render.R` | Knits the master report |
