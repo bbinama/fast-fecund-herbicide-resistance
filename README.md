@@ -1,4 +1,4 @@
-# A fast, colonising life history predicts herbicide resistance in arable weeds
+# A fast, fecund life history predicts herbicide resistance in arable weeds
 
 Full analysis pipeline for predicting the **herbicide-resistance status of German arable weeds from
 whole-plant ecological strategy** (functional traits + life history + biogeography), with phylogenetic
